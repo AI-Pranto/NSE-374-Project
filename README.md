@@ -1,2 +1,2 @@
 # NSE-374-Project
-Full Core IAEA-3D Benchmark Problem 
+Full Core IAEA-3D Benchmark Problem with Two Group Neutron Diffusion Eqn
